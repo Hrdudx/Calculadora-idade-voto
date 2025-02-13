@@ -1,5 +1,3 @@
-📌 Desenvolvido por: Hayyra Eduarda
-🎯 Objetivo: Praticar Java Swing e lógica condicional com operador ternário.
 
 
 ## 🛠 Tecnologias Utilizadas
@@ -18,7 +16,7 @@
     - **Entre 18 e 69 anos** → Voto obrigatório ✅
 - Exibe os resultados na interface gráfica.
 
-##Como Executar
+## Como Executar
 - Clone este repositório ou copie os arquivos para seu projeto Java.
 - Abra o projeto no NetBeans ou outra IDE compatível.
 - Compile e execute o programa.
