@@ -1,3 +1,4 @@
+![Captura de tela 2025-02-13 180505](https://github.com/user-attachments/assets/e36b5c61-2c20-4316-aac0-bf89773f2055)
 
 
 ## 🛠 Tecnologias Utilizadas
